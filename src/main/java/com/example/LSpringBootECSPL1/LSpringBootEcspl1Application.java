@@ -15,7 +15,7 @@ public class LSpringBootEcspl1Application {
 	    public static class HelloController {
 	        @GetMapping("/")
 	        public String hello() {
-	            return "Hello, Spring Boot!";
+	            return "Hello, Merry Christmas!";
 	        }
 	    }
 
